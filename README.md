@@ -30,3 +30,10 @@ Writing objects: 100% (3/3), 222 bytes | 222.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/Nikita8539/PractiseGIT.git
  * [new branch]      main -> main
+
+ 
+PS D:\GIT> git add .
+PS D:\GIT> git commit -m "Used Commands added"
+[main 1291300] Used Commands added
+ 1 file changed, 32 insertions(+)
+PS D:\GIT> git push -u origin main
